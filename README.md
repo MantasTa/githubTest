@@ -1,3 +1,3 @@
 # githubTest
 bandomas
-dar akzkas - klaida
+dar akzkas - klaida - pataisytas
